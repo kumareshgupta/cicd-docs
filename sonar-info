@@ -1,0 +1,4 @@
+Download the SonarQube Community Edition.
+Unzip it, let's say in D:\sonarqube
+Start the sonar server > StartSonar
+Login to http://localhost:9000 with System Admin credentials - admin/admin
