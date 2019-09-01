@@ -1,3 +1,15 @@
+SonarQube - for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells and vulnerabilities
+ 
+ SonarQube vs SonarQube Scanner:-
+ ---------------------------------
+ SonarQube :- central server holding the result of analysis
+ 
+ SonarQube Scanner :- performs analysis and sends the results to SonarQube server
+
+
+
+Working with SonarQube :-
+
 Download the SonarQube Community Edition.
 Unzip it, let's say in D:\sonarqube
 Start the sonar server > StartSonar
